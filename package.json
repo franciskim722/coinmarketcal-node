@@ -1,11 +1,29 @@
 {
   "name": "coinmarketcal-node",
   "version": "0.0.1",
-  "description": "",
+  "description": "A node.js wrapper for CoinMarketCal API @ https://api.coinmarketcal.com/.",
+  "keywords": [
+    "bitcoin",
+    "bitcoin events",
+    "coinmarketcal",
+    "coinmarketcap",
+    "cryptocurrency",
+    "crypto currency",
+    "cryptocurrency calendar",
+    "cryptocurrency events"
+  ],
   "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
+  "author": "Francis Kim - https://github.com/franciskim722",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.85.0"
   },
-  "author": "",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/franciskim722/coinmarketcal-node"
+  },
+  "bugs": {
+    "url": "https://github.com/franciskim722/coinmarketcal-node/issues",
+    "email": "franciskim722@gmail.com"
+  }
 }

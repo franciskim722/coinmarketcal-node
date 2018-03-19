@@ -1,1 +1,1 @@
-console.log("Test");
+module.exports = require('./lib/coinmarketcal');
