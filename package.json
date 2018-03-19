@@ -1,6 +1,6 @@
 {
   "name": "coinmarketcal-node",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A node.js wrapper for CoinMarketCal API @ https://api.coinmarketcal.com/.",
   "keywords": [
     "bitcoin",
